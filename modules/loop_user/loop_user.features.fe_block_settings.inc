@@ -19,7 +19,8 @@ function loop_user_default_fe_block_settings() {
     'module' => 'user',
     'node_types' => array(),
     'pages' => 'loop_saml_redirect
-page-not-found',
+page-not-found
+toboggan/denied',
     'roles' => array(),
     'themes' => array(
       'bartik' => array(
