@@ -3057,6 +3057,9 @@ msgstr "Tilgå bulk exporter"
 msgid "Access Denied"
 msgstr "Adgang nægtet"
 
+msgid "Access denied. You may need to login below or register to access this page."
+msgstr "Adgang nægtet"
+
 msgid "Access Denied / User log in"
 msgstr "Adgang nægtet / Bruger login"
 
